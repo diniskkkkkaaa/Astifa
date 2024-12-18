@@ -53,7 +53,7 @@ It is a coursework for my university. The theme was make a competitive game with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/astifa-game.git
+   git clone https://github.com/yourusername/Astifa.git
    ```
 2. Open the project in Visual Studio.
 3. Install dependencies:
