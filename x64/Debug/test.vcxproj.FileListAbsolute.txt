@@ -1,0 +1,8 @@
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test\x64\Debug\test.vcxproj.AssemblyReference.cache
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test\x64\Debug\test.exe
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test\x64\Debug\test.GUI.resources
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test\x64\Debug\test.vcxproj.GenerateResource.cache
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\x64\Debug\test.vcxproj.AssemblyReference.cache
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\x64\Debug\test.GUI.resources
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\x64\Debug\test.vcxproj.GenerateResource.cache
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\x64\Debug\test.exe

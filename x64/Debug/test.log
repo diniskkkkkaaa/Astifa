@@ -1,0 +1,16 @@
+﻿  GUI.cpp
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(113,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(118,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(136,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(145,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(174,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(300,28): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(315,28): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(328,36): warning C4305: =: усечение из "double" в "float"
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(338,36): warning C4305: =: усечение из "double" в "float"
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(365,36): warning C4305: =: усечение из "double" в "float"
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(374,36): warning C4305: =: усечение из "double" в "float"
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(452,37): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\GUI.h(434,1): warning C4101: event: неиспользованная локальная переменная
+  GUI.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  test.vcxproj -> C:\Users\diniskkkkkaaa\Desktop\Курсач\test – копія\x64\Debug\test.exe
